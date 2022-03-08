@@ -15,5 +15,4 @@ Creation functions
    creation_functions/ones.rst
    creation_functions/zeros.rst
    creation_functions/tril.rst
-   creation_functions/empty.rst
 
